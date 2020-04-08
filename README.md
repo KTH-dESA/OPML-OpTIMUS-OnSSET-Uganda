@@ -11,11 +11,18 @@ The model requires Python3 to run.
 ```
 pip install onsset=1.1a1
 ```
-3. Launch Jupyter Notebook in the directory
-4. Run the OnSSET_Uganda notebook
-5. Download the GIS input data (link in the OnSSET_Uganda notebook)
-6. Run through all the cells, cutomize the values as needed for your scenario
-7. This generates all of the result files. Maps can be created from these using e.g. QGIS
+3. Install the additional requirement listed below
+4. Launch Jupyter Notebook in the directory
+5. Run the OnSSET_Uganda notebook
+6. Download the GIS input data (link in the OnSSET_Uganda notebook)
+7. Run through all the cells, cutomize the values as needed for your scenario
+8. This generates all of the result files. Maps can be created from these using e.g. QGIS
+
+### Requirements
+- notebook
+- seaborn
+- matplotlib
+- scipy
 
 ## Contact
 For more information regarding the OnSSET tool, its functionality and implementation
