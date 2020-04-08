@@ -8,9 +8,9 @@ The model requires Python3 to run.
 
 1. Clone repository in a directory of your preference
 2. Install OnSSET version 1.1.1 using 
-´´´
-pip install onsset=1.1.1"
-´´´
+```
+pip install onsset=1.1.1
+```
 3. Launch Jupyter Notebook in the directory
 4. Run the OnSSET_Uganda notebook
 5. Download the GIS input data (link in the OnSSET_Uganda notebook)
