@@ -2,12 +2,14 @@
 This repository contains Open Source Spatial Electrification Tool
 ([OnSSET](http://www.onsset.org/)) model customized for Uganda.
 
+Presentations and posters of geospatial analysis using the OnSSET tool for Uganda can be found <a href="https://drive.google.com/drive/u/0/folders/177KTGhzmv-UhYvAf2AYLU33sYCQThGGC" target="_blank">here</a>.
+
 The model requires Python3 to run.
 
 ### How-to-use Instructions 
 
 1. Clone repository in a directory of your preference
-2. Install OnSSET version 1.1.1 using "pip install onsset=1.1.1"
+2. Install OnSSET version 1.1.1 using "pip install onsset=1.1a1"
 3. Launch Jupyter Notebook in the directory
 4. Run the OnSSET_Uganda notebook
 5. Download the GIS input data (link in the OnSSET_Uganda notebook)
